@@ -29,7 +29,7 @@ npm install ui5-task-sitemap --save-dev
 ```yaml
 builder:
   customTasks:
-  - name: generate-sitemap
+  - name: ui5-task-sitemap
     afterTask: replaceVersion
     configuration:
       baseUrl: "https://yourapp.example.com"
