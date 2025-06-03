@@ -1,6 +1,6 @@
 {
   "name": "ui5-task-sitemap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Custom UI5 task to generate sitemap.xml for SAPUI5/OpenUI5 applications.",
   "author": "Qualiture",
   "license": "MIT",
